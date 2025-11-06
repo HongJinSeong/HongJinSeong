@@ -21,4 +21,6 @@
 |주저자|Jin Seong Hong, Jiho Choi, Seung Gu Kim, Muhammad Owais, and Kang Ryoung Park, “INF-GAN: Generative Adversarial Network for Illumination Normalization of Finger-Vein Images,” Mathematics, 9(20), 2613, pp. 1-32, October 2021.|
 
 
-- 
+- 경력
+|기간|직책|부서|업무|
+|25.01~현재|책임|선행개발 LAB|딥러닝 모델 개발 및 최적화, 머신비전 알고리즘 구현|
