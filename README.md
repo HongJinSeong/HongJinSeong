@@ -16,5 +16,6 @@
 
 |유형|내용|
 |--|-|
+|주저자|Jin Seong Hong, Seung Gu Kim, Jung Soo Kim, and Kang Ryoung Park, “Synthetic generation of finger-vein region by feature fusion-based enhanced U-transformer for finger-vein recognition,” Information Fusion, Vol. 126, Part B, pp. 1-24, February 2026.|
 |주저자|Jin Seong Hong, Seung Gu Kim, Jung Soo Kim, and Kang Ryoung Park, “Deep learning-based restoration of multi-degraded finger-vein image by non-uniform illumination and noise,” Engineering Applications of Artificial Intelligence, Vol. 133 (Part A), pp. 1-28, July 2024.|
 |주저자|Jin Seong Hong, Jiho Choi, Seung Gu Kim, Muhammad Owais, and Kang Ryoung Park, “INF-GAN: Generative Adversarial Network for Illumination Normalization of Finger-Vein Images,” Mathematics, 9(20), 2613, pp. 1-32, October 2021.|
